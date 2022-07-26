@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **r_Benkerri@estin.dz**
+- 📫 How to reach me **R_benkerri@estin.dz**
 
 - ⚡ Fun fact **StackOverFLow Expert**
 
